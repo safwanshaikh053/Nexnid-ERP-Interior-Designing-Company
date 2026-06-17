@@ -50,11 +50,10 @@ Database design
 Scalable application development
 📷 Screenshots
 
-Add project screenshots here
+
 
 ⚙️ Installation & Setup
-# Clone the repository
-git clone <your-repository-link>
+
 
 # Navigate to project folder
 cd ERP-Nexnid
